@@ -1,0 +1,15 @@
+/Graphics/
+/Audio/
+/Movies/
+/Save*.rvdata2
+Save01
+*.rvdata2
+*.exe
+
+*.gem
+*.rbc
+/.config/
+/tmp/
+/.bundle/
+.DS_Store
+Thumbs.db
